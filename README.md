@@ -38,12 +38,6 @@ The screenshot below shows the `WBP_Loading_Screen` Event Graph, which orchestra
 4. Calls `SwitchInput` on the PlayerController through the `Widget_to_Controller` interface
 5. Plays a fade-out animation, then collapses the widget
 
-*(screenshot here)*
+<img width="2014" height="838" alt="ScreenBP_01" src="https://github.com/user-attachments/assets/0cd3207a-f4f4-4b37-a366-ed1df19778e3" />
 
 This graph is the Blueprint-side driver for the asynchronous level streaming system referenced in the C++ source, and ties together two of the interfaces listed above in a single sequence.
-
-## Links
-
-- Portfolio: [link]
-- Showreel: [link]
-- Full gameplay footage: [link]
