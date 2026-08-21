@@ -9,12 +9,12 @@ The project follows a clear split in responsibilities: **C++ handles all gamepla
 
 ## Project structure
 
-/Source
-  /Player          → character, controller, camera (3C)
-  /ScriptedEvents   → core gameplay systems: triggers, audio, lighting
-  /Interfaces       → decoupled communication between class types
-  /UI               → HUD and widget base classes
-  /Core             → game mode
+/Source  
+&nbsp;&nbsp;/Player → character, controller, camera (3C)  
+&nbsp;&nbsp;/ScriptedEvents → core gameplay systems: triggers, audio, lighting  
+&nbsp;&nbsp;/Interfaces → decoupled communication between class types  
+&nbsp;&nbsp;/UI → HUD and widget base classes  
+&nbsp;&nbsp;/Core → game mode  
 
 ## Highlighted systems
 
